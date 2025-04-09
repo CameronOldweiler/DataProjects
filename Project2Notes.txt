@@ -1,0 +1,4 @@
+Need to randomly create a subsample of Spotify that way I can draw more conclusions from the visualizations and build
+better models that I can apply to the whole dataset at the end.
+
+Create more interaction terms between linked variables and create a log of duration (could be better potentially)
